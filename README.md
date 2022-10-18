@@ -8,21 +8,14 @@ I graduated from a Master in Computer Science from the [University of Technology
 I am currently enrolled in a work-study program to strenghten my Business and Management skills at [Audencia Business School](https://www.audencia.com/en).
   
   
-
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/abertolotto/)">
+  <a href="https://www.linkedin.com/in/abertolotto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/alex_brtl)">
+  <a href="https://twitter.com/alex_brtl">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
+
 <img src="https://komarev.com/ghpvc/?username=abtl&style=flat-square&color=blue" alt=""/>
-
-
-
-<!---
-abtl/abtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
